@@ -13,24 +13,10 @@ src="https://img.shields.io/github/followers/mrkevr?logo=github&style=for-the-ba
 src="https://img.shields.io/twitter/follow/mrkevr?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
 /></a>
 
-### Core
+### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,html,css" />
-  </a>
-</p>
-
-### Frameworks and Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=spring,bootstrap" />
-  </a>
-</p>
-
-### Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+     <img src="https://skillicons.dev/icons?i=java,html,css,spring,bootstrap,mysql,mongodb,postgres" />
   </a>
 </p>
 
